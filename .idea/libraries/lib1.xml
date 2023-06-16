@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Testing Project/BankSystemGUITesting/dist/lib/testfx-junit5-4.0.16-alpha.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Testing Project/BankSystemGUITesting/dist/lib/testfx-core-4.0.16-alpha.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
